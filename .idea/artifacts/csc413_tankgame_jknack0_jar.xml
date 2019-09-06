@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-tankgame-jknack0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_tankgame_jknack0_jar</output-path>
+    <root id="archive" name="csc413-tankgame-jknack0.jar">
+      <element id="module-output" name="csc413-tankgame-jknack0" />
+    </root>
+  </artifact>
+</component>
